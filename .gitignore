@@ -1,0 +1,13 @@
+# フォルダごと完全に無視
+bangumihyou/
+kyousouseiseki/
+racerkibetsuseiseki/
+cache/
+jyodata/
+
+# ファイルの無視
+*.pkl
+*.lzh
+*.TXT
+__pycache__/
+*.tmp
